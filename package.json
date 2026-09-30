@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "End-to-end test suite built with [Playwright](https://playwright.dev/) and TypeScript.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.1.2"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}
